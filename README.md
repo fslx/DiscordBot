@@ -1,0 +1,2 @@
+# DiscordBot
+Discord Chat Bot
